@@ -10,7 +10,7 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 A full-stack news platform built as a freelance project and now maintained independently.
 
 ### 🌟 Highlights
-- Serves **2,000+ regular users** every month
+- Serves **2,000+ regular users** every day
 - Hosts **3,000+ published articles**
 - Generates revenue via **Facebook Ads** and **individual sponsors**
 - Built with **React, Express, MongoDB, and Redux Toolkit Query**
