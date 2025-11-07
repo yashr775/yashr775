@@ -19,7 +19,7 @@ A full-stack news platform built as a freelance project and now maintained indep
 ### 🧩 Tech Stack
 Frontend: React + Tailwind CSS + RTK Query  
 Backend: Node.js + Express + MongoDB  
-Deployment: Render + Cloudflare  
+Deployment: VPS
 Analytics: Google Analytics  
 
 ### 🚀 Live Demo
