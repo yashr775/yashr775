@@ -5,7 +5,25 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 ---
 
 ## 🚀 About Me
-- 💼 Freelance full-stack developer — built and maintain [**Dehaat News**](https://dehaatnews.com),([https://github.com/yashr775/dehaatnews](https://github.com/yashr775/dehatinews)) a production-grade news platform serving **2,000+ users daily** with **3,000+ published articles**.
-- ⚙️ Experienced with React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Redux Toolkit, and ImageKit.
-- 💰 Built products that generate revenue through ads and sponsorships.
-- 🌱 Currently exploring **Next.js** and **analytics dashboards**.
+# Dehaat News 📰
+
+A full-stack news platform built as a freelance project and now maintained independently.
+
+### 🌟 Highlights
+- Serves **2,000+ regular users** every month
+- Hosts **3,000+ published articles**
+- Generates revenue via **Facebook Ads** and **individual sponsors**
+- Built with **React, Express, MongoDB, and Redux Toolkit Query**
+- Integrated **Google Analytics** and **ImageKit** for optimized media delivery
+
+### 🧩 Tech Stack
+Frontend: React + Tailwind CSS + RTK Query  
+Backend: Node.js + Express + MongoDB  
+Deployment: Render + Cloudflare  
+Analytics: Google Analytics  
+
+### 🚀 Live Demo
+🔗 [https://dehaatnews.com](https://dehaatnews.com)
+
+### 🧠 About
+I developed this project end-to-end as a freelancer and continue to maintain it as a live production system. The application handles user authentication, article management, and analytics dashboards for content performance.
