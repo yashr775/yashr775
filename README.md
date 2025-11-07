@@ -24,6 +24,7 @@ Analytics: Google Analytics
 
 ### 🚀 Live Demo
 🔗 [https://dehaatnews.com](https://dehaatnews.com)
+(https://github.com/yashr775/dehatinews)
 
 ### 🧠 About
 I developed this project end-to-end as a freelancer and continue to maintain it as a live production system. The application handles user authentication, article management, and analytics dashboards for content performance.
