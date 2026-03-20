@@ -11,7 +11,7 @@ A full-stack news platform built as a freelance project and now maintained indep
 
 ### 🌟 Highlights
 - Serves **2,000+ regular users** every day
-- Hosts **3,000+ published articles**
+- Hosts **4,000+ published articles**
 - Generates revenue via **Facebook Ads** and **individual sponsors**
 - Built with **React, Express, MongoDB, and Redux Toolkit Query**
 - Integrated **Google Analytics** and **ImageKit** for optimized media delivery
